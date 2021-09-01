@@ -10,7 +10,7 @@
 namespace Application;
 
 return array(
-    'router' => array(
+    'router' => array( 
         'routes' => array(
             'home' => array(
                 'type' => 'Zend\Mvc\Router\Http\Literal',
